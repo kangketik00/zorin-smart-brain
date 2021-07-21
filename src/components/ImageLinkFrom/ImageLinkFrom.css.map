@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACJ,KAAK,EAAE,GAAG;EACV,UAAU,EAAE,2CAA2C,CAAC,CAAC,CAAC,CAAC,EACzD,2CAA2C,CAAC,GAAG,CAAC,GAAG,EACnD,8DAA8D,CAAC,CAAC,CAAC,GAAG,EACpE,8DAA8D,CAAC,GAAG,CAAC,GAAG;EACxE,gBAAgB,EAAE,OAAO;EACzB,eAAe,EAAE,SAAS;CAC3B",
+    "sources": [
+        "ImageLinkFrom.scss"
+    ],
+    "names": [],
+    "file": "ImageLinkFrom.css"
+}
